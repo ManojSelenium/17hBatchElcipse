@@ -9,6 +9,7 @@ public class FirstTest {
 	@Test
 	public void tc1() {
 		System.out.println("First Test Case");
+		System.out.println("First Test Case");
 	}
 	
 	@Test
